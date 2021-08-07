@@ -5,7 +5,8 @@ Given the MAE evaluation metric, I use quantile regression in all models. I find
 
 The inital tuning grid results for LightGBM and Random Forest, respectively, are displayed below. 
 
+LightGBM
 ![LightGBM](https://github.com/ethangalebach/auto-insurance-loss-models/blob/master/lightgbm.png?raw=true)
 
-
+Random Forest
 ![Random Forest (Ranger)](https://github.com/ethangalebach/auto-insurance-loss-models/blob/master/ranger.png?raw=true)
