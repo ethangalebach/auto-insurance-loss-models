@@ -3,4 +3,4 @@ I clean, explore, analyze, and model claim severity from an anonymized Allstate 
 
 Given the MAE evaluation metric, I use quantile regression in all models. I find that a penalized Generalized Additive Model performs worse than XGBoost, which performs worse than lightGBM.
 
-![LightGBM](https://github.com/ethangalebach/auto-insurance-loss-models/blob/images/lightGBM.png?raw=true)
+![LightGBM](https://github.com/ethangalebach/auto-insurance-loss-models/blob/master/light gbm tune plot.png?raw=true)
